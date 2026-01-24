@@ -1,82 +1,22 @@
 [
-  {
-    "id": 1,
-    "name": "Pigeon Amaze Plus Electric Kettle",
-    "cat": "Kitchen",
-    "price": 649,
-    "img": "https://m.media-amazon.com/images/I/51Y2uLIscGL._SL1100_.jpg",
-    "link": "https://www.amazon.in/dp/B07WMS7TWB/?tag=producthel02c-21"
-  },
-  {
-    "id": 2,
-    "name": "boAt Airdopes 121v2 TWS Buds",
-    "cat": "Electronics",
-    "price": 999,
-    "img": "https://m.media-amazon.com/images/I/510uTHyDqGL._SL1500_.jpg",
-    "link": "https://www.amazon.in/dp/B08JQN8DGZ/?tag=producthel02c-21"
-  },
-  {
-    "id": 3,
-    "name": "SanDisk Ultra 64GB USB 3.0 Pen Drive",
-    "cat": "Electronics",
-    "price": 429,
-    "img": "https://m.media-amazon.com/images/I/61DjwgS4cbL._SL1500_.jpg",
-    "link": "https://www.amazon.in/dp/B00S89299G/?tag=producthel02c-21"
-  },
-  {
-    "id": 4,
-    "name": "TP-Link USB WiFi Adapter for PC",
-    "cat": "Gadgets",
-    "price": 499,
-    "img": "https://m.media-amazon.com/images/I/51m69vM9SXL._SL1000_.jpg",
-    "link": "https://www.amazon.in/dp/B07PB9GCW1/?tag=producthel02c-21"
-  },
-  {
-    "id": 5,
-    "name": "Portronics Konnect L 1.2M Fast Charging",
-    "cat": "Electronics",
-    "price": 149,
-    "img": "https://m.media-amazon.com/images/I/5176A28-9KL._SL1500_.jpg",
-    "link": "https://www.amazon.in/dp/B096B47C59/?tag=producthel02c-21"
-  },
-  {
-    "id": 6,
-    "name": "Logitech B100 Wired USB Mouse",
-    "cat": "Gadgets",
-    "price": 299,
-    "img": "https://m.media-amazon.com/images/I/51v68mGAnYL._SL1500_.jpg",
-    "link": "https://www.amazon.in/dp/B003L62T7W/?tag=producthel02c-21"
-  },
-  {
-    "id": 7,
-    "name": "SKYVIK Beam 2 Cable Organizer",
-    "cat": "Home",
-    "price": 349,
-    "img": "https://m.media-amazon.com/images/I/61m6-fKqTKL._SL1500_.jpg",
-    "link": "https://www.amazon.in/dp/B0BRKDTL12/?tag=producthel02c-21"
-  },
-  {
-    "id": 8,
-    "name": "Prestige 1.5 Litre Kettle",
-    "cat": "Kitchen",
-    "price": 749,
-    "img": "https://m.media-amazon.com/images/I/61Nl-m92z7L._SL1500_.jpg",
-    "link": "https://www.amazon.in/dp/B01LWN66A7/?tag=producthel02c-21"
-  },
-  {
-    "id": 9,
-    "name": "Noise ColorFit Pulse Grand Smartwatch",
-    "cat": "Electronics",
-    "price": 1299,
-    "img": "https://m.media-amazon.com/images/I/61HeS7u86PL._SL1500_.jpg",
-    "link": "https://www.amazon.in/dp/B09NV9D87T/?tag=producthel02c-21"
-  },
-  {
-    "id": 10,
-    "name": "Gizga Essentials Laptop Cleaning Kit",
-    "cat": "Gadgets",
-    "price": 249,
-    "img": "https://m.media-amazon.com/images/I/61pD07d-zKL._SL1500_.jpg",
-    "link": "https://www.amazon.in/dp/B010CP9870/?tag=producthel02c-21"
-  }
-]
+  { "id": 1, "name": "Pigeon Electric Kettle 1.5L", "cat": "Kitchen", "price": 625, "img": "https://m.media-amazon.com/images/I/51Y2uLIscGL.jpg", "link": "https://www.amazon.in/dp/B07WMS7TWB/?tag=producthel02c-21" },
+  { "id": 2, "name": "boAt Airdopes 121v2", "cat": "Electronics", "price": 999, "img": "https://m.media-amazon.com/images/I/510uTHyDqGL.jpg", "link": "https://www.amazon.in/dp/B08JQN8DGZ/?tag=producthel02c-21" },
+  { "id": 3, "name": "SanDisk 64GB Pen Drive", "cat": "Electronics", "price": 429, "img": "https://m.media-amazon.com/images/I/61DjwgS4cbL.jpg", "link": "https://www.amazon.in/dp/B00S89299G/?tag=producthel02c-21" },
+  { "id": 4, "name": "TP-Link WiFi Adapter", "cat": "Gadgets", "price": 499, "img": "https://m.media-amazon.com/images/I/51m69vM9SXL.jpg", "link": "https://www.amazon.in/dp/B07PB9GCW1/?tag=producthel02c-21" },
+  { "id": 5, "name": "Portronics Fast Cable", "cat": "Electronics", "price": 149, "img": "https://m.media-amazon.com/images/I/5176A28-9KL.jpg", "link": "https://www.amazon.in/dp/B096B47C59/?tag=producthel02c-21" },
+  { "id": 6, "name": "Logitech Wired Mouse", "cat": "Gadgets", "price": 299, "img": "https://m.media-amazon.com/images/I/51v68mGAnYL.jpg", "link": "https://www.amazon.in/dp/B003L62T7W/?tag=producthel02c-21" },
+  { "id": 7, "name": "Ambrane 10000mAh Powerbank", "cat": "Electronics", "price": 999, "img": "https://m.media-amazon.com/images/I/61p9zXInX9L.jpg", "link": "https://www.amazon.in/dp/B099F6TX89/?tag=producthel02c-21" },
+  { "id": 8, "name": "Prestige Electric Kettle", "cat": "Kitchen", "price": 749, "img": "https://m.media-amazon.com/images/I/61Nl-m92z7L.jpg", "link": "https://www.amazon.in/dp/B01LWN66A7/?tag=producthel02c-21" },
+  { "id": 9, "name": "Noise Pulse Smartwatch", "cat": "Electronics", "price": 1199, "img": "https://m.media-amazon.com/images/I/61HeS7u86PL.jpg", "link": "https://www.amazon.in/dp/B09NV9D87T/?tag=producthel02c-21" },
+  { "id": 10, "name": "Gizga Cleaning Kit", "cat": "Gadgets", "price": 249, "img": "https://m.media-amazon.com/images/I/61pD07d-zKL.jpg", "link": "https://www.amazon.in/dp/B010CP9870/?tag=producthel02c-21" },
+  { "id": 11, "name": "Bajaj Rex Mixer Grinder", "cat": "Kitchen", "price": 1999, "img": "https://m.media-amazon.com/images/I/71Y7pM7y7LL.jpg", "link": "https://www.amazon.in/dp/B0099S995U/?tag=producthel02c-21" },
+  { "id": 12, "name": "Realme Buds 2 Wired", "cat": "Audio", "price": 599, "img": "https://m.media-amazon.com/images/I/51S4X6YV6XL.jpg", "link": "https://www.amazon.in/dp/B07X9SK97D/?tag=producthel02c-21" },
+  { "id": 13, "name": "JBL C100SI Headphones", "cat": "Audio", "price": 599, "img": "https://m.media-amazon.com/images/I/51Q8D6zL6RL.jpg", "link": "https://www.amazon.in/dp/B01DEWVZ2C/?tag=producthel02c-21" },
+  { "id": 14, "name": "Mi Step Out Backpack", "cat": "Fashion", "price": 399, "img": "https://m.media-amazon.com/images/I/71m6pT65JpL.jpg", "link": "https://www.amazon.in/dp/B085FGY7XG/?tag=producthel02c-21" },
+  { "id": 15, "name": "Syska 12W LED Bulb", "cat": "Home", "price": 149, "img": "https://m.media-amazon.com/images/I/51H-Y6M6GFL.jpg", "link": "https://www.amazon.in/dp/B07B4V9N6L/?tag=producthel02c-21" },
+  { "id": 16, "name": "Cello H2O Bottle", "cat": "Home", "price": 199, "img": "https://m.media-amazon.com/images/I/71W6P7+m8fL.jpg", "link": "https://www.amazon.in/dp/B01LWN66A7/?tag=producthel02c-21" },
+  { "id": 17, "name": "Philips Beard Trimmer", "cat": "Beauty", "price": 1299, "img": "https://m.media-amazon.com/images/I/61Ff20-xVGL.jpg", "link": "https://www.amazon.in/dp/B01LWN66A7/?tag=producthel02c-21" },
+  { "id": 18, "name": "Casio Men's Watch", "cat": "Fashion", "price": 995, "img": "https://m.media-amazon.com/images/I/61fW8-fS8dL.jpg", "link": "https://www.amazon.in/dp/B002LAS0S2/?tag=producthel02c-21" },
+  { "id": 19, "name": "T-Shirt for Men", "cat": "Fashion", "price": 399, "img": "https://m.media-amazon.com/images/I/71M6S6L-mRL.jpg", "link": "https://www.amazon.in/dp/B0BRKDTL12/?tag=producthel02c-21" },
+  { "id": 20, "name": "Nova Hair Dryer", "cat": "Beauty", "price": 499, "img": "https://m.media-amazon.com/images/I/51v68mGAnYL.jpg", "link": "https://www.amazon.in/dp/B003L62T7W/?tag=producthel02c-21" },
+  { "id": 21, "name": "Milton Thermosteel Bottle", "cat": "Home", "price": 899, "img":
