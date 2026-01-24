@@ -1,32 +1,82 @@
 [
-  { "id": 1, "name": "4-in-1 Fast Charging Cable (65W)", "cat": "Electronics", "price": 499, "img": "https://m.media-amazon.com/images/I/61k7J6RE85L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B0CKR2H6P9/?tag=producthel02c-21" },
-  { "id": 2, "name": "Self-Cleaning Hair Brush", "cat": "Beauty", "price": 399, "img": "https://m.media-amazon.com/images/I/51M08Fv9LhL._SL1000_.jpg", "link": "https://www.amazon.in/dp/B0D1K4G9Y8/?tag=producthel02c-21" },
-  { "id": 3, "name": "Laptop Cleaning Kit (8-in-1)", "cat": "Gadgets", "price": 299, "img": "https://m.media-amazon.com/images/I/61S8n-T2VpL._SL1500_.jpg", "link": "https://www.amazon.in/dp/B0B9G6R3XN/?tag=producthel02c-21" },
-  { "id": 4, "name": "Magnetic COB Wall Switch Light", "cat": "Home", "price": 199, "img": "https://m.media-amazon.com/images/I/51V6oYm9mGL._SL1000_.jpg", "link": "https://www.amazon.in/dp/B08L7M5G5X/?tag=producthel02c-21" },
-  { "id": 5, "name": "Digital Portable Weight Scale", "cat": "Gadgets", "price": 349, "img": "https://m.media-amazon.com/images/I/61yX2-G2H9L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B08R9G6N5L/?tag=producthel02c-21" },
-  { "id": 6, "name": "Manual Kitchen Food Chopper", "cat": "Kitchen", "price": 149, "img": "https://m.media-amazon.com/images/I/71bH0U7Jt7L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B00V6H9W1U/?tag=producthel02c-21" },
-  { "id": 7, "name": "boAt Airdopes Atom 121 Pro", "cat": "Electronics", "price": 899, "img": "https://m.media-amazon.com/images/I/51fS8Hh8n8L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B0B7M6G6NB/?tag=producthel02c-21" },
-  { "id": 8, "name": "USB Rechargeable Handheld Fan", "cat": "Gadgets", "price": 449, "img": "https://m.media-amazon.com/images/I/61p-K4e7-hL._SL1500_.jpg", "link": "https://www.amazon.in/dp/B09T3G5K8X/?tag=producthel02c-21" },
-  { "id": 9, "name": "3D LED Crystal Ball Night Lamp", "cat": "Home", "price": 499, "img": "https://m.media-amazon.com/images/I/61o-H-T-G-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B0CPH7G6W3/?tag=producthel02c-21" },
-  { "id": 10, "name": "Wallet Ninja 18-in-1 Tool Card", "cat": "Tools", "price": 150, "img": "https://m.media-amazon.com/images/I/71R7-L-P-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B00S9X6E1O/?tag=producthel02c-21" },
-  { "id": 11, "name": "Silicone Oil Pourer/Stopper", "cat": "Kitchen", "price": 99, "img": "https://m.media-amazon.com/images/I/51G-H-J-K-L._SL1000_.jpg", "link": "https://www.amazon.in/dp/B09S3N5X4P/?tag=producthel02c-21" },
-  { "id": 12, "name": "LCD Writing Tablet for Kids", "cat": "Toys", "price": 249, "img": "https://m.media-amazon.com/images/I/61k-G-T-P-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B08L5M5K9L/?tag=producthel02c-21" },
-  { "id": 13, "name": "Portronics Clean M Cleaning Kit", "cat": "Gadgets", "price": 499, "img": "https://m.media-amazon.com/images/I/51d-G-T-M-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B0B9G6X8M9/?tag=producthel02c-21" },
-  { "id": 14, "name": "Mini Portable Bluetooth Speaker", "cat": "Audio", "price": 499, "img": "https://m.media-amazon.com/images/I/61N-G-T-K-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B08X5M5L9R/?tag=producthel02c-21" },
-  { "id": 15, "name": "Self-Stirring Coffee Mug", "cat": "Kitchen", "price": 399, "img": "https://m.media-amazon.com/images/I/61M-G-T-P-L._SL1000_.jpg", "link": "https://www.amazon.in/dp/B09W3M5K7X/?tag=producthel02c-21" },
-  { "id": 16, "name": "Motion Sensor Wardrobe Lights", "cat": "Home", "price": 299, "img": "https://m.media-amazon.com/images/I/51u-G-T-P-L._SL1000_.jpg", "link": "https://www.amazon.in/dp/B08S5L5M9T/?tag=producthel02c-21" },
-  { "id": 17, "name": "Transparent 20W Fast Charger", "cat": "Electronics", "price": 399, "img": "https://m.media-amazon.com/images/I/51V-G-T-M-L._SL1000_.jpg", "link": "https://www.amazon.in/dp/B0CP3N5X9Q/?tag=producthel02c-21" },
-  { "id": 18, "name": "Desktop Phone Stand", "cat": "Gadgets", "price": 199, "img": "https://m.media-amazon.com/images/I/51r-G-T-N-L._SL1000_.jpg", "link": "https://www.amazon.in/dp/B08L9M5N7K/?tag=producthel02c-21" },
-  { "id": 19, "name": "Lint Remover for Clothes", "cat": "Home", "price": 349, "img": "https://m.media-amazon.com/images/I/61G-G-T-P-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B08S3G5K9L/?tag=producthel02c-21" },
-  { "id": 20, "name": "Astronaut Star Projector Lamp", "cat": "Home", "price": 999, "img": "https://m.media-amazon.com/images/I/71f-G-T-M-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B0B9N5L9K8/?tag=producthel02c-21" },
-  { "id": 21, "name": "Unbreakable Silicone Water Bottle", "cat": "Home", "price": 299, "img": "https://m.media-amazon.com/images/I/51V-G-T-N-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B09W3G5K8X/?tag=producthel02c-21" },
-  { "id": 22, "name": "Multi-Purpose Mobile Holder", "cat": "Gadgets", "price": 99, "img": "https://m.media-amazon.com/images/I/51A-G-T-P-L._SL1000_.jpg", "link": "https://www.amazon.in/dp/B08S3G5K7X/?tag=producthel02c-21" },
-  { "id": 23, "name": "Portable Fruit Juicer Blender", "cat": "Kitchen", "price": 499, "img": "https://m.media-amazon.com/images/I/61H-G-T-N-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B0B7M5G5X9/?tag=producthel02c-21" },
-  { "id": 24, "name": "Fingerprint Door Lock", "cat": "Gadgets", "price": 1299, "img": "https://m.media-amazon.com/images/I/51W-G-T-P-L._SL1000_.jpg", "link": "https://www.amazon.in/dp/B0B9G5X8M9/?tag=producthel02c-21" },
-  { "id": 25, "name": "RGB Floor Corner Lamp", "cat": "Home", "price": 1499, "img": "https://m.media-amazon.com/images/I/61K-G-T-N-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B09S3G5K9P/?tag=producthel02c-21" },
-  { "id": 26, "name": "Noise ColorFit Smartwatch", "cat": "Electronics", "price": 1299, "img": "https://m.media-amazon.com/images/I/61S-G-T-P-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B09W3G6X8M/?tag=producthel02c-21" },
-  { "id": 27, "name": "Pigeon Amaze Electric Kettle", "cat": "Kitchen", "price": 649, "img": "https://m.media-amazon.com/images/I/51T-G-T-N-L._SL1200_.jpg", "link": "https://www.amazon.in/dp/B07W5G5X8M/?tag=producthel02c-21" },
-  { "id": 28, "name": "Car Vacuum Cleaner (High Power)", "cat": "Tools", "price": 899, "img": "https://m.media-amazon.com/images/I/61H-G-T-P-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B0B7G5X6N9/?tag=producthel02c-21" },
-  { "id": 29, "name": "SanDisk 64GB Pendrive", "cat": "Electronics", "price": 429, "img": "https://m.media-amazon.com/images/I/61G-G-T-N-L._SL1500_.jpg", "link": "https://www.amazon.in/dp/B078G5X8M9/?tag=producthel02c-21" },
-  { "id": 30, "name": "Fastrack Men's Sunglasses", "cat": "Fashion", "price": 799, "img": "https://m.media-amazon.com/images/I/51G-G-T-P-L._SL1000_.jpg", "link": "https://www.amazon.in/dp/B00S9G5X7X/?tag=producthel02c-21" }
+  {
+    "id": 1,
+    "name": "Pigeon Amaze Plus Electric Kettle",
+    "cat": "Kitchen",
+    "price": 649,
+    "img": "https://m.media-amazon.com/images/I/51Y2uLIscGL._SL1100_.jpg",
+    "link": "https://www.amazon.in/dp/B07WMS7TWB/?tag=producthel02c-21"
+  },
+  {
+    "id": 2,
+    "name": "boAt Airdopes 121v2 TWS Buds",
+    "cat": "Electronics",
+    "price": 999,
+    "img": "https://m.media-amazon.com/images/I/510uTHyDqGL._SL1500_.jpg",
+    "link": "https://www.amazon.in/dp/B08JQN8DGZ/?tag=producthel02c-21"
+  },
+  {
+    "id": 3,
+    "name": "SanDisk Ultra 64GB USB 3.0 Pen Drive",
+    "cat": "Electronics",
+    "price": 429,
+    "img": "https://m.media-amazon.com/images/I/61DjwgS4cbL._SL1500_.jpg",
+    "link": "https://www.amazon.in/dp/B00S89299G/?tag=producthel02c-21"
+  },
+  {
+    "id": 4,
+    "name": "TP-Link USB WiFi Adapter for PC",
+    "cat": "Gadgets",
+    "price": 499,
+    "img": "https://m.media-amazon.com/images/I/51m69vM9SXL._SL1000_.jpg",
+    "link": "https://www.amazon.in/dp/B07PB9GCW1/?tag=producthel02c-21"
+  },
+  {
+    "id": 5,
+    "name": "Portronics Konnect L 1.2M Fast Charging",
+    "cat": "Electronics",
+    "price": 149,
+    "img": "https://m.media-amazon.com/images/I/5176A28-9KL._SL1500_.jpg",
+    "link": "https://www.amazon.in/dp/B096B47C59/?tag=producthel02c-21"
+  },
+  {
+    "id": 6,
+    "name": "Logitech B100 Wired USB Mouse",
+    "cat": "Gadgets",
+    "price": 299,
+    "img": "https://m.media-amazon.com/images/I/51v68mGAnYL._SL1500_.jpg",
+    "link": "https://www.amazon.in/dp/B003L62T7W/?tag=producthel02c-21"
+  },
+  {
+    "id": 7,
+    "name": "SKYVIK Beam 2 Cable Organizer",
+    "cat": "Home",
+    "price": 349,
+    "img": "https://m.media-amazon.com/images/I/61m6-fKqTKL._SL1500_.jpg",
+    "link": "https://www.amazon.in/dp/B0BRKDTL12/?tag=producthel02c-21"
+  },
+  {
+    "id": 8,
+    "name": "Prestige 1.5 Litre Kettle",
+    "cat": "Kitchen",
+    "price": 749,
+    "img": "https://m.media-amazon.com/images/I/61Nl-m92z7L._SL1500_.jpg",
+    "link": "https://www.amazon.in/dp/B01LWN66A7/?tag=producthel02c-21"
+  },
+  {
+    "id": 9,
+    "name": "Noise ColorFit Pulse Grand Smartwatch",
+    "cat": "Electronics",
+    "price": 1299,
+    "img": "https://m.media-amazon.com/images/I/61HeS7u86PL._SL1500_.jpg",
+    "link": "https://www.amazon.in/dp/B09NV9D87T/?tag=producthel02c-21"
+  },
+  {
+    "id": 10,
+    "name": "Gizga Essentials Laptop Cleaning Kit",
+    "cat": "Gadgets",
+    "price": 249,
+    "img": "https://m.media-amazon.com/images/I/61pD07d-zKL._SL1500_.jpg",
+    "link": "https://www.amazon.in/dp/B010CP9870/?tag=producthel02c-21"
+  }
 ]
