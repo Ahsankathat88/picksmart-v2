@@ -20,7 +20,7 @@ async function loadData() {
     } catch (err) {
         console.error(err);
         grid.innerHTML = `<div style="text-align:center; width:100%; padding:50px;">
-            <h3>Bhai, data load nahi hua!</h3>
+            <h3>product not show please try agine</h3>
             <p>VS Code me 'Live Server' use karein ya GitHub par check karein.</p>
         </div>`;
     } finally {
